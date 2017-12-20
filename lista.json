@@ -1,0 +1,22 @@
+[
+  {
+   "produto": "Estrelas",
+   "id": 1,
+   "imagem":"https://github.com/veralltanaka/projeto/blob/master/cupcakes-1.jpeg"
+  },
+  {
+   "produto": "Napolitano",
+   "id": 2,
+   "imagem":"https://github.com/veralltanaka/projeto/blob/master/cupcakes-2.jpg"
+  },
+  {
+   "produto": "Pirulito",
+   "id": 3,
+   "imagem":"https://github.com/veralltanaka/projeto/blob/master/cupcakes-3.jpg"
+  },
+  {
+   "produto": "Cereja",
+   "id": 4,
+   "imagem":"https://github.com/veralltanaka/projeto/blob/master/cupcakes-4.jpg"
+  }
+]

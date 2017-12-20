@@ -6,7 +6,7 @@ import ListaCoisas from './src/componente/lista-coisas';
 const App = () => {
     return (
         <View>
-            <Titulo texto={'Lista de Compras'} />
+            <Titulo texto={'Lista de Desejos'} />
             <ListaCoisas />
         </View>
     );
