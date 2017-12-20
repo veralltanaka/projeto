@@ -6,7 +6,7 @@ class ListaCoisas extends Component {
 
   state = { lista: [{ id: 0, produto: 'Carregando...' }] };
 
-  urlDaApi = 'https://raw.githubusercontent.com/munifgebara/reactnative/master/lista/lista.json';
+  urlDaApi = 'https://github.com/veralltanaka/projeto/blob/master/lista.json';
 
   componentWillMount() {
     console.log('ListaCoisas.componentWillMount()');
