@@ -41,7 +41,6 @@ class ListaCoisas extends Component {
             .then(response => response.json().then(data => {
                 this.setState({ lista: data });
             }))
-
             .catch(error => {
                 this.setState({ lista: [{ produto: 'Impossível carregar a lista' }] });
             });
